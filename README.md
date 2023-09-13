@@ -23,3 +23,9 @@ and an 8-bit register for the product. The product register serves as an accumul
 partial products. If the multiplicand were shifted left each time before it was added to the accumulator, as was done in 
 the previous example, an 8-bit adder would be needed. Therefore, it is better to shift the contents of the product 
 register to the right each time
+
+
+
+![Screenshot (422)](https://github.com/Sharathsv08/Shift-and-add-multiplier/assets/123817826/35d32134-8db1-4af2-8c37-a5f99b5c8461)
+
+
